@@ -1,0 +1,38 @@
+# Python
+*.pyc
+*.pyo
+__pycache__/
+*.pyd
+
+# Virtual Environment
+venv/
+env/
+.venv/
+ENV/
+*.env
+
+# Flask-related
+instance/
+.webassets-cache/
+
+# IDEs and Editors
+.vscode/
+../.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Logs
+*.log
+
+# Database
+*.sqlite3
+*.db
+
+# Environment files
+.env
+.env.local
+.env.*.local
